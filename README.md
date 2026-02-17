@@ -37,7 +37,7 @@ Citation
 
 If you use this code or data in your research, please cite the following paper:
 
-Chi, H., Wang, F., et al. 2025, Stellar Memory of Galactic Spiral Shocks: A Gaia DR3 Analysis of Classical Cepheids, A&A Letters, in press.
+Chi, H., Wang, F., et al. 2025, Stellar Memory of Galactic Spiral Shocks: A Gaia DR3 Analysis of Classical Cepheids, ApJ Letters, in press.
 
 BibTeX entry will be provided upon publication.
 
@@ -49,7 +49,7 @@ For questions or issues, please open an issue on GitHub or contact Huanbin Chi a
 
 ## 📄 LICENSE (MIT)
 
-```text
+
 MIT License
 
 Copyright (c) 2025 Huanbin Chi
